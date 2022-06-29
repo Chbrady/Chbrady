@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chbrady
 - 👀 I’m interested in learning about code.
-- 🌱 I’m currently learning front end wed devolpment
+- 🌱 I’m currently learning front end web devolpment
 - 💞️ I’m looking to collaborate on html projects- as of now.
 - 📫 How to reach me claudiahbrady@gmail.com
 
